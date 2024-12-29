@@ -1,0 +1,21 @@
+{
+  "name": "vasi-animation-player",
+  "version": "1.0.0",
+  "description": "A Unity package for playing .vasi animations.",
+  "main": "Assets/Scripts/VasiAnimationPlayer.cs",
+  "scripts": {
+    "build": "echo 'Building the project...'",
+    "test": "echo 'Running tests...'"
+  },
+  "dependencies": {
+    "unity": "2021.1.0f1"
+  },
+  "keywords": [
+    "Unity",
+    "Animation",
+    "Vasi",
+    "Player"
+  ],
+  "author": "Your Name",
+  "license": "MIT"
+}

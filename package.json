@@ -1,0 +1,8 @@
+{
+  "name": "com.yourname.vasianimation",
+  "version": "1.0.0",
+  "displayName": "Vasi Animation",
+  "description": "A package for handling Vasi animations.",
+  "unity": "2020.1",
+  "dependencies": {}
+}
